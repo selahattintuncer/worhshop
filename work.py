@@ -5,4 +5,7 @@ print(x)
 y = ("musti")
 print(y)
 # bünyamin
-bu değişilikler keles ten
+
+z = ("selman")
+print(z)
+print("bu değişilikler keles ten")
