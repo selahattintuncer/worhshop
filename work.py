@@ -5,4 +5,5 @@ print(x)
 y = ("musti")
 print(y)
 # bünyamin
-
+z = ("selman")
+print(z)
