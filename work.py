@@ -5,4 +5,4 @@ print(x)
 y = ("musti")
 print(y)
 # bünyamin
-
+bu değişilikler keles ten
